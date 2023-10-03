@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-family: "Josefin Sans", sans-serif;
+    background-color: #0cb8f7;
+}
+
+.card {
+    background-color: #0cb8f7;
+}
+
+li {
+    color: #00ffff;
+    font-size: 16px;
+    font-weight: 100;
+    height: 19px;
+    line-height: 1;
+    list-style: none;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+.temperature {
+    color: rgb(33, 33, 33);
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.units {
+    position: relative;
+    top: -34px;
+    text-align: center;
+    margin: block;
+}
+
+.float-left {
+    text-align: center;
+    margin: block;
+}
+
+.card-body {
+    text-align: center;
+    margin: block;
+}
